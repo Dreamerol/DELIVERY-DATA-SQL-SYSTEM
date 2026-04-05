@@ -17,19 +17,8 @@ It includes:
 ✔️ **Sample data** for testing  
 ✔️ **SQL queries** for retrieving delivery tracking information  
 
-This setup helps you understand **real-world database organization** and how to query related data across tables using **joins, aggregations, and filters**.
----
+This setup helps you understand **real-world database organization** and how to query related data across tables using **joins, aggregations, and filters**. :contentReference[oaicite:0]{index=0}
 
-## 🔍 Project Overview
-
-A structured SQL project that models a basic **delivery system database**, including users, items, addresses, and their relationships. This repository contains the database schema, sample inserts, and example queries to explore delivery data efficiently. This project demonstrates how to design and work with relational databases using **SQL**. It includes:
-
-✔️ Well‑structured tables for users, items, deliveries, and related entities  
-✔️ Primary and foreign key relationships to enforce data integrity  
-✔️ Sample data for testing  
-✔️ SQL queries for retrieving delivery tracking information  
-
-This setup helps you understand real‑world database organization and how to query related data across tables using joins, aggregations, and filters. :contentReference[oaicite:0]{index=0}
 
 ---
 
