@@ -6,7 +6,7 @@
 
 ---
 
-## 🔹 Overview
+## 🌈✨ Overview
 
 A structured **SQL project** that models a basic **delivery system database**, including **users, items, addresses**, and their relationships.  
 This repository contains the **database schema**, **sample inserts**, and **example queries** to explore delivery data efficiently.  
