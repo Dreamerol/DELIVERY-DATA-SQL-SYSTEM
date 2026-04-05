@@ -1,4 +1,4 @@
-# DELIVERIES‑SQL ✨
+#  DELIVERIES‑SQL 
 
 ---
 
