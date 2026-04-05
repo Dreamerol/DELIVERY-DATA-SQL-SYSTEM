@@ -1,8 +1,23 @@
 # DELIVERIES‑SQL
 
+---
+
 ![SQL Data](https://raw.githubusercontent.com/Dreamerol/Dreamerol/9cc733b4ef8b54f63e8571152bbade25bd51ef12/SQL%20DATA.jpg)
 
+---
 
+A structured **SQL project** that models a basic **delivery system database**, including **users, items, addresses**, and their relationships.  
+This repository contains the **database schema**, **sample inserts**, and **example queries** to explore delivery data efficiently.  
+The project demonstrates how to design and work with **relational databases using SQL**.  
+
+It includes:
+
+✔️ Well-structured tables for **users, items, deliveries**, and related entities  
+✔️ **Primary and foreign key relationships** to enforce data integrity  
+✔️ **Sample data** for testing  
+✔️ **SQL queries** for retrieving delivery tracking information  
+
+This setup helps you understand **real-world database organization** and how to query related data across tables using **joins, aggregations, and filters**.
 ---
 
 ## 🔍 Project Overview
