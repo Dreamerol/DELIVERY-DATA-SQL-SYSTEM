@@ -35,6 +35,18 @@ It includes:
 
 ---
 
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Relational-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Normalization-3NF-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Joins-Queries-important?style=for-the-badge" />
+
+</div>
+
+---
+
 ## 🧱 Database Schema
 
 The database is designed with multiple related tables. Each table serves a specific purpose:
@@ -120,6 +132,20 @@ Examples of real SQL usage:
 - Join users with their delivery records  
 
 These example queries demonstrate how to use SQL to retrieve meaningful insights from a relational dataset. :contentReference[oaicite:2]{index=2}
+
+
+---
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/SQL-Database-blue?style=for-the-badge" />
+<img src="https://img.shields.io/badge/MySQL-Relational-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Database-Design-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Normalization-3NF-informational?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Joins-Queries-important?style=for-the-badge" />
+
+</div>
+
 
 ---
 
