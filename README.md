@@ -182,7 +182,11 @@ It includes:
 ✔️ Well-structured tables for **users, items, deliveries**, and related entities  
 ✔️ **Primary and foreign key relationships** to enforce data integrity  
 ✔️ **Sample data** for testing  
-✔️ **SQL queries** for retrieving delivery tracking information  
+✔️ **SQL queries** for retrieving delivery tracking information 
+
+
+<br>
+
 
 <h2 align="center"><i>🚀 Master <b>SQL joins, aggregations & filters</b>.</i></h2>
 
