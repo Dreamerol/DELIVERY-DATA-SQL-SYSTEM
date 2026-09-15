@@ -1,3 +1,16 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
 <h1 align="center">🚚 𝗗𝗘𝗟𝗜𝗩𝗘𝗥𝗬 𝗗𝗔𝗧𝗔 𝗠𝗢𝗗𝗘𝗟 – 𝗦𝗤𝗟 𝗟𝗢𝗚𝗜𝗦𝗧𝗜𝗖𝗦 𝗦𝗬𝗦𝗧𝗘𝗠</h1>
 
 ## <p align="center">Database Design • Optimization • Real-world Logistics Simulation</p>
