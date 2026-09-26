@@ -187,6 +187,10 @@ alt="Mihaela Koseva (Михаела Косева), Sofia University (Софий�
 
 
 
+<div align="left">
+
+
+<div align="left">
 
 
 
@@ -351,6 +355,19 @@ By exploring this project, you’ll gain experience with:
 - Writing SQL queries for real use cases  
 - Analyzing delivery data using joins and conditions  
 - Understanding database relationships and normalization
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+
 
 
 
